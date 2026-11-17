@@ -1,0 +1,8 @@
+com/artak/pillarboxd/template/ErrorHandler.class
+com/artak/pillarboxd/rest/TextController.class
+com/artak/pillarboxd/Main.class
+com/artak/pillarboxd/security/SecurityConfig.class
+com/artak/pillarboxd/config/WebConfig.class
+com/artak/pillarboxd/template/LoginController.class
+com/artak/pillarboxd/rest/EnvironmentController.class
+com/artak/pillarboxd/template/ErrorHandler$ApiError.class

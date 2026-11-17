@@ -1,0 +1,8 @@
+{
+  "name": "Pillarboxd",
+  "short_name": "Pillarboxd",
+  "icons": [],
+  "theme_color": "#0f1924",
+  "background_color": "#0f1924",
+  "display": "standalone"
+}
